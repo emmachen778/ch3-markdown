@@ -7,4 +7,5 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 See `complete` branch for an example.
 
 > "The most common way people give up their power is by thinking they don't have any."
+
 [More info](https://www.brainyquote.com/quotes/quotes/a/alicewalke385241.html)
